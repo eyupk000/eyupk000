@@ -1,52 +1,43 @@
-# 👋 Hi there, I'm Eyüp!
 
-Welcome to my GitHub profile! Here you'll find a showcase of my coding journey, projects, and contributions. I’m passionate about building, learning, and sharing knowledge with the developer community.
+# 👋 Hi there! Welcome to my GitHub Profile
+
+Welcome to my corner of GitHub! Here you'll find a snapshot of my journey, projects, and passions in tech. I believe in building solutions, sharing knowledge, and collaborating with amazing minds around the world.
 
 ---
 
 ## 🚀 About Me
 
-- 💼 **Profession:** _(Tell me your current role or field!)_
-- 🧑‍💻 **Top Skills:** _(Share your main programming languages, frameworks, or tech specialties)_
-- 🌱 **Currently Learning:** _(What are you exploring right now?)_
-- 🎯 **Goals:** _(What motivates you as a developer?)_
+- 🎓 **Student at Manisa Celal Bayar University**
+- 📚 **Department:** Artificial Intelligence and Machine Learning
+- 🧑‍🎓 **Year:** 1st Year
+- 🐍 **Just started learning Python**
+- 🇬🇧 **English Level:** A2 (Beginner)
+- 🤖 **Aiming to build various projects and expand my skills**
 
 ---
 
-## 🏆 Featured Projects
+## 📈 GitHub Stats
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| _Project Name_ | _Brief summary of what it does and why it’s cool_ | _Languages, frameworks_ |
-| _Project Name_ | _Another awesome project highlight_ | _Tech stack details_ |
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eyupk000&show_icons=true&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eyupk000&layout=compact&theme=gruvbox)
 
 ---
 
-## 🤝 Connect with Me
+## ✨ Featured Projects
 
-- 🌐 [Portfolio/Website](#)
-- 💬 [LinkedIn](#)
-- 🐦 [Twitter/X](#)
-- 📧 [Email](#)
+<!-- Highlight your favorite or most impactful repositories here -->
+- _Coming soon: Exciting AI/ML & Python projects!_
 
 ---
 
-## 📊 GitHub Stats
+## 🤝 Let's Connect!
 
-![Eyüp's GitHub stats](https://github-readme-stats.vercel.app/api?username=eyupk000&show_icons=true&hide_title=true&count_private=true&theme=radical)
-
----
-
-_Ready to collaborate, learn, and grow!_ 🚀
+I'm always open to collaboration, feedback, and new opportunities. Feel free to reach out via [GitHub Issues](https://github.com/eyupk000).
 
 ---
 
-### Next Steps
+> _“Code is like humor. When you have to explain it, it’s bad.”_
 
-To personalize your README, could you share:
-- **Your profession or current role**
-- **Top 3-5 skills or technologies**
-- **Favorite or most important projects (with brief description)**
-- **Your social links (LinkedIn, portfolio, etc.)**
+---
 
-Feel free to add anything else that represents you!
+Thanks for visiting! 🚀
