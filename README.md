@@ -7,9 +7,9 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&animation=fadeIn&section=section&text=%F0%9F%91%8B%20Hi%20there%21&fontSize=60" />
   </picture>
 </div>
-<h1 align="center">o pana erxn</h1>
+<h1 align="center">Eyüp Celal Bayar University Student</h1>
 
-
+- 📫 How to reach me: [eyupk000](https://github.com/eyupk000) on GitHub.
 
 ### 🐙 Technologies
 
@@ -24,23 +24,12 @@
 
 ### 📈 My Github Stats
 
-<a href="https://github.com/iwalyn">
+<a href="https://github.com/eyupk000">
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=iwalyn&show_icons=true"
+      srcset="https://github-readme-stats.vercel.app/api?username=eyupk000&show_icons=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=iwalyn&show_icons=true&theme=github_dark" />
+    <img src="https://github-readme-stats.vercel.app/api?username=eyupk000&show_icons=true&theme=github_dark" />
   </picture>
 </a>
-
-### 📈 My WakaTime Stats
-
-<a href="https://wakatime.com/@Xia_Beifeng">
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Xia_Beifeng&layout=compact"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Xia_Beifeng&layout=compact&theme=github_dark" />
-  </picture>
