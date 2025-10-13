@@ -1,45 +1,46 @@
-<!-- Eyüp's GitHub Profile README -->
+<div align="center">
+  <picture>
+    <source
+      srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&animation=fadeIn&section=section&text=%F0%9F%91%8B%20Hi%20there%21&fontSize=60&fontColor=000"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&animation=fadeIn&section=section&text=%F0%9F%91%8B%20Hi%20there%21&fontSize=60" />
+  </picture>
+</div>
+<h1 align="center">o pana erxn</h1>
 
-<h1 align="center">Hi 👋, I'm Eyüp</h1>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
-  <img src="https://img.shields.io/badge/Turkish-Native-blue?style=for-the-badge" alt="Turkish Badge"/>
-  <img src="https://img.shields.io/badge/English-A2-green?style=for-the-badge" alt="English Badge"/>
+
+
+### 🐙 Technologies
+
+<p align="left">
+  <a href="https://code.visualstudio.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45" />
+  </a>
+  <a href="https://www.python.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45" />
+  </a>
 </p>
 
----
+### 📈 My Github Stats
 
-👨‍🎓 **Student at Celal Bayar University**  
-🧠 **Artificial Intelligence and Machine Learning** (1st year)  
-🐍 **Learning Python**  
-🌍 **Languages:**  
-&nbsp;&nbsp;&nbsp;&nbsp;🇹🇷 Turkish (Native)  
-&nbsp;&nbsp;&nbsp;&nbsp;🇬🇧 English (A2 Level)
+<a href="https://github.com/iwalyn">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=iwalyn&show_icons=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=iwalyn&show_icons=true&theme=github_dark" />
+  </picture>
+</a>
 
----
+### 📈 My WakaTime Stats
 
-## ✨ About Me
-
-- I am interested in **artificial intelligence** and **machine learning**.
-- I am learning **Python programming language**.
-- I like to learn new things and improve my skills.
-- My goal is to become a good developer and work on AI projects.
-
----
-
-## 📫 How to reach me
-
-- Email: *your-email@example.com* <!-- Add your email if you want -->
-- LinkedIn: [Your LinkedIn profile](#) <!-- Add your LinkedIn link if you want -->
-
----
-
-## ⚡ Fun Fact
-
-> "Learning never exhausts the mind." - Leonardo da Vinci
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eyupk000&show_icons=true&theme=radical" alt="Eyüp's Stats"/>
-</p>
+<a href="https://wakatime.com/@Xia_Beifeng">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Xia_Beifeng&layout=compact"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Xia_Beifeng&layout=compact&theme=github_dark" />
+  </picture>
