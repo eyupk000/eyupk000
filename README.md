@@ -21,7 +21,7 @@ Welcome to my corner of GitHub! Here you'll find a snapshot of my journey, proje
 <!-- VS Code çalışma sürenizi otomatik göstermek için "WakaTime" gibi bir servis kullanabilirsiniz. 
 Aşağıdaki gibi bir badge ekleyebilirsiniz: -->
 
-[![VS Code çalışma sürem](https://github-readme-stats.vercel.app/api/wakatime?username=Eyüp Karakoç&theme=gruvbox)](https://wakatime.com/@Eyüp Karakoç)
+[![VS Code çalışma sürem](https://github-readme-stats.vercel.app/api/wakatime?username=Eyüp&theme=gruvbox)](https://wakatime.com/@Karakoc)
 
 > WakaTime hesabınız yoksa, çalışma sürenizi manuel olarak ekleyebilirsiniz. Hesap açarsanız otomatik olarak güncellenir.
 
