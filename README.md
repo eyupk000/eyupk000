@@ -16,6 +16,17 @@ Welcome to my corner of GitHub! Here you'll find a snapshot of my journey, proje
 
 ---
 
+## 🕒 VS Code Çalışma Sürem
+
+<!-- VS Code çalışma sürenizi otomatik göstermek için "WakaTime" gibi bir servis kullanabilirsiniz. 
+Aşağıdaki gibi bir badge ekleyebilirsiniz: -->
+
+[![VS Code çalışma sürem](https://github-readme-stats.vercel.app/api/wakatime?username=eyupk000&theme=gruvbox)](https://wakatime.com/@eyupk000)
+
+> WakaTime hesabınız yoksa, çalışma sürenizi manuel olarak ekleyebilirsiniz. Hesap açarsanız otomatik olarak güncellenir.
+
+---
+
 ## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eyupk000&show_icons=true&theme=gruvbox)
@@ -41,3 +52,6 @@ I'm always open to collaboration, feedback, and new opportunities. Feel free to 
 ---
 
 Thanks for visiting! 🚀
+
+
+
