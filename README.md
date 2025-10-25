@@ -14,13 +14,7 @@ Welcome to my corner of GitHub! Here you'll find a snapshot of my journey, proje
 - 🇬🇧 **English Level:** A2 (Beginner)
 - 🤖 **Aiming to build various projects and expand my skills**
 
----
 
-
-
-> WakaTime hesabınız yoksa, çalışma sürenizi manuel olarak ekleyebilirsiniz. Hesap açarsanız otomatik olarak güncellenir.
-
----
 
 ## 📈 GitHub Stats
 
