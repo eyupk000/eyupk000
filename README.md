@@ -13,17 +13,6 @@
 *   🌍 **Diller:** Türkçe (Anadil), İngilizce (B1 - Aktif olarak teknik dokümantasyon okuma ve geliştirme aşamasında)
 *   ⚡ **Eğlenceli Gerçek:** Kod yazmaktan ve veri setleriyle boğuşmaktan arta kalan zamanlarımda strateji ve hayatta kalma oyunlarında taktik geliştirmeyi, ayrıca finansal piyasaları analiz etmeyi severim.
 
----
-
-### 🛠️ Teknoloji ve Araç Çantam
-
-Ağırlıklı olarak veri bilimi ve makine öğrenmesi ekosisteminde kullandığım teknolojiler:
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,scikit,git,github,vscode,linux" />
-</div>
----
-
 ### 📫 Benimle İletişime Geçin
 
 Birlikte projeler geliştirmek, fikir alışverişinde bulunmak veya sadece teknoloji üzerine sohbet etmek isterseniz bana her zaman ulaşabilirsiniz:
