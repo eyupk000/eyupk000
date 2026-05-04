@@ -1,5 +1,4 @@
-# Merhaba, Ben [Adın Soyadın]! 👋 🤖
-
+# Merhaba, Ben Eyüp Karakoç ! 👋 🤖
 **Yapay Zeka ve Makine Öğrenmesi Tutkunu | Veri Bilimi Yolcusu**
 
 Şu anda Manisa Celal Bayar Üniversitesi'nde Yapay Zeka ve Makine Öğrenmesi bölümünde 1. sınıf öğrencisiyim. Verinin ardındaki hikayeleri keşfetmek, algoritmaların mantığını çözmek ve geleceğin teknolojilerine katkıda bulunmak en büyük motivasyonum. Teorik temellerimi sağlamlaştırırken, bir yandan da pratik projelerle kendimi geliştirmeye odaklanıyorum.
@@ -23,16 +22,6 @@ Ağırlıklı olarak veri bilimi ve makine öğrenmesi ekosisteminde kullandığ
 <div align="left">
   <img src="https://skillicons.dev/icons?i=python,numpy,pandas,scikit,git,github,vscode,linux" />
 </div>
-
----
-
-### 📊 GitHub İstatistiklerim
-
-<div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADINI_BURAYA_YAZ&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADINI_BURAYA_YAZ&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
 ---
 
 ### 📫 Benimle İletişime Geçin
@@ -40,6 +29,6 @@ Ağırlıklı olarak veri bilimi ve makine öğrenmesi ekosisteminde kullandığ
 Birlikte projeler geliştirmek, fikir alışverişinde bulunmak veya sadece teknoloji üzerine sohbet etmek isterseniz bana her zaman ulaşabilirsiniz:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SENIN_LINKEDIN_ADRESIN)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SENIN_MAIL_ADRESIN@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eyupkarakoc03@icloud.com)
 
 
