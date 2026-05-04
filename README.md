@@ -1,46 +1,45 @@
+# Merhaba, Ben [Adın Soyadın]! 👋 🤖
 
-# 👋 Hi there! Welcome to my GitHub Profile
+**Yapay Zeka ve Makine Öğrenmesi Tutkunu | Veri Bilimi Yolcusu**
 
-Welcome to my corner of GitHub! Here you'll find a snapshot of my journey, projects, and passions in tech. I believe in building solutions, sharing knowledge, and collaborating with amazing minds around the world.
+Şu anda Manisa Celal Bayar Üniversitesi'nde Yapay Zeka ve Makine Öğrenmesi bölümünde 1. sınıf öğrencisiyim. Verinin ardındaki hikayeleri keşfetmek, algoritmaların mantığını çözmek ve geleceğin teknolojilerine katkıda bulunmak en büyük motivasyonum. Teorik temellerimi sağlamlaştırırken, bir yandan da pratik projelerle kendimi geliştirmeye odaklanıyorum.
 
----
+### 🔭 Neler Yapıyorum?
 
-## 🚀 About Me
-
-- 🎓 **Student at Manisa Celal Bayar University**
-- 📚 **Department:** Artificial Intelligence and Machine Learning
-- 🧑‍🎓 **Year:** 1st Year
-- 🐍 **Just started learning Python**
-- 🇬🇧 **English Level:** A2 (Beginner)
-- 🤖 **Aiming to build various projects and expand my skills**
-
-
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eyupk000&show_icons=true&theme=gruvbox)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eyupk000&layout=compact&theme=gruvbox)
+*   🎓 **Eğitim:** Manisa Celal Bayar Üniversitesi'nde (MCBÜ) akademik serüvenime devam ediyorum.
+*   🧠 **Odak Alanım:** Veri Bilimi, Makine Öğrenmesi ve Derin Öğrenme mimarileri üzerine yoğunlaşıyorum.
+*   🔬 **Projeler:** Yapay zekanın çeşitli meslek grupları üzerindeki etkilerini inceleyen TÜBİTAK 2209-A araştırma projeleri gibi akademik ve vizyoner çalışmalarla ilgileniyorum.
+*   🌱 **Şu an Öğrendiklerim:** Python ekosisteminin derinliklerine iniyor; veri analizi ve makine öğrenmesi algoritmaları üzerine çalışıyorum.
+*   💬 **Bana Sorabilirsiniz:** Yapay zeka trendleri, model eğitim süreçleri veya genel teknoloji muhabbetleri!
+*   🌍 **Diller:** Türkçe (Anadil), İngilizce (B1 - Aktif olarak teknik dokümantasyon okuma ve geliştirme aşamasında)
+*   ⚡ **Eğlenceli Gerçek:** Kod yazmaktan ve veri setleriyle boğuşmaktan arta kalan zamanlarımda strateji ve hayatta kalma oyunlarında taktik geliştirmeyi, ayrıca finansal piyasaları analiz etmeyi severim.
 
 ---
 
-## ✨ Featured Projects
+### 🛠️ Teknoloji ve Araç Çantam
 
-<!-- Highlight your favorite or most impactful repositories here -->
-- _Coming soon: Exciting AI/ML & Python projects!_
+Ağırlıklı olarak veri bilimi ve makine öğrenmesi ekosisteminde kullandığım teknolojiler:
 
----
-
-## 🤝 Let's Connect!
-
-I'm always open to collaboration, feedback, and new opportunities. Feel free to reach out via [GitHub Issues](https://github.com/eyupk000).
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,scikit,git,github,vscode,linux" />
+</div>
 
 ---
 
-> _“Code is like humor. When you have to explain it, it’s bad.”_
+### 📊 GitHub İstatistiklerim
+
+<div align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADINI_BURAYA_YAZ&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADINI_BURAYA_YAZ&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
 ---
 
-Thanks for visiting! 🚀
+### 📫 Benimle İletişime Geçin
 
+Birlikte projeler geliştirmek, fikir alışverişinde bulunmak veya sadece teknoloji üzerine sohbet etmek isterseniz bana her zaman ulaşabilirsiniz:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SENIN_LINKEDIN_ADRESIN)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SENIN_MAIL_ADRESIN@gmail.com)
 
 
